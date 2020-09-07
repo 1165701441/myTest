@@ -11,6 +11,6 @@ import com.baomidou.mybatisplus.extension.service.IService;
  * @author testjava
  * @since 2020-09-07
  */
-public interface TPRODUCTervice extends IService<TProduct> {
+public interface TproductService extends IService<TProduct> {
 
 }
